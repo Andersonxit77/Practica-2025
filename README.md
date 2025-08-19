@@ -4,7 +4,7 @@ Egresado de la carrera de Programación (2024), con dos años de experiencia en 
 
 Actualmente me encuentro en búsqueda de oportunidades para realizar mis prácticas profesionales, con el objetivo de seguir creciendo profesionalmente, contribuir a proyectos reales y continuar desarrollando mis habilidades en entornos colaborativos y desafiantes. 
 
-# Certificaciones JavaScript (2025)
+Certificaciones JavaScript (2025)
 
  – Duoc UC, Sede principal Valparaíso Domótica (2024) 
 
@@ -13,14 +13,23 @@ Actualmente me encuentro en búsqueda de oportunidades para realizar mis prácti
 Intereses Desarrollo Full Stack
 
 Aplicaciones móviles (Android/iOS) 
+
 Automatización de procesos
+
 Integración de tecnologías domóticas 
+
 Mejores prácticas en desarrollo ágil
+
 🚀 Tecnologías y herramientas 👨‍💻 Lenguajes: JavaScript, Python, Java, SQL 
+
 🌐 Web: HTML5, CSS3, React (basico) 
-Base de datos: MySQL  
+
+Base de datos: MySQL 
+
 Herrramientras_ GitHub, Visual Studio Code 
+
 Otros: conomientos de Exel 
+
 Objetivo profecional Mi objetivo es desarrollar experiencia practica en proyectos reales que permitan aplicar los conomientos adquiridos en la carrera, Mejorar mis habilidades tecnicas y colaborar dentro de un equipo de desarrollo
 Que encotraras en mi Github, proyectos academicos y personales 
 Prueba de conceptos y mini-proyectos 
