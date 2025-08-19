@@ -4,10 +4,14 @@ Egresado de la carrera de Programación (2024), con dos años de experiencia en 
 
 Actualmente me encuentro en búsqueda de oportunidades para realizar mis prácticas profesionales, con el objetivo de seguir creciendo profesionalmente, contribuir a proyectos reales y continuar desarrollando mis habilidades en entornos colaborativos y desafiantes. 
 
-Certificaciones JavaScript (2025) 
+# Certificaciones JavaScript (2025)
+
  – Duoc UC, Sede principal Valparaíso Domótica (2024) 
+
  – CFT Viña del Mar 💡 
-Intereses Desarrollo Full Stack 
+ 
+Intereses Desarrollo Full Stack
+
 Aplicaciones móviles (Android/iOS) 
 Automatización de procesos
 Integración de tecnologías domóticas 
